@@ -1,0 +1,20 @@
+#app {
+    height: 100vh;
+    .content-container {
+        height: calc(100% - 75px);
+    }
+}
+
+.navbar {
+    background: white;
+    box-shadow: 1px 1px 5px grey;
+    height: 75px;
+    padding: 12px 0;
+}
+
+.dashboard {
+    color: #094b02;
+    background-color: rgba(1, 43, 0, 0.1607843137);
+    box-shadow: 1px 1px 1px lightgrey;
+}
+
